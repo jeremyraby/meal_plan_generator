@@ -1,3 +1,32 @@
+'''
+Script to generate a weekly meal plan with random selections from predefined lists of breakfasts, lunches, and dinners.
+
+The script prompts the user to choose between having one or two meals per day for variety. It then randomly selects meals 
+from the predefined lists and displays the weekly meal plan. If two meals per day are chosen, it ensures that each meal is 
+unique for variety and avoids repetition of the last item in each list. After displaying the meal plan, it allows the user to 
+opt for a different selection or end the program.
+
+Usage:
+    - Run the script and respond to prompts with 'Y' or 'N' to generate a meal plan with desired variety.
+
+Predefined Lists:
+    - `breakfasts`: List of breakfast options.
+    - `lunches`: List of lunch options.
+    - `dinners`: List of dinner options.
+
+Example:
+    $ python meal_plan_generator.py
+    Would you like some variety in your week? (Y or N) Y
+    Okay, this week you're gonna have scrambled eggs for breakfast, pesto stuffed shells for lunch, and jerk chicken with 
+    pineapple black bean salsa for dinner.
+    
+    You will also have bacon potato frittata for breakfast, chicken & dumplins for lunch, and sesame garlic ramen stir fry for 
+    dinner.
+
+    Would you rather have something different? (Y or N) N
+
+    Bon Appetit!
+'''
 import random
 
 breakfasts = [
@@ -72,6 +101,12 @@ if number_of_meals.lower() == "y":
 else:
   number_of_meals = 1
 
+'''
+For the following 3 sets of nested `if` statements, the goal is to ensure that both meal options are unique. If `random.choice()`
+selects 2 identical meals, and that meal is the last element in the list, the second meal will be set to the 
+second-to-last element in the list, else the second meal will be set to the last element in the list
+'''
+
 while True:
   breakfast = random.choice(breakfasts)
   lunch = random.choice(lunches)
@@ -84,7 +119,7 @@ while True:
     lunch2 = lunch 
     dinner1 = dinner
     dinner2 = dinner
-
+    
     if breakfast1 == breakfast2 and breakfast1 == breakfasts[-1]:
       breakfast2 = breakfasts[-2]
     elif breakfast1 == breakfast2:
