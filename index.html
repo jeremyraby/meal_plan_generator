@@ -1,15 +1,28 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Meal Plan Generator</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Meal Plan Generator</title>
+    <style>
+        body { font-family: Arial, sans-serif; padding: 20px; }
+        button { margin-top: 10px; }
+    </style>
 </head>
 <body>
-  <header>
-    <h1>Meal Plan Generator</h1>
-    <h3>Saving money one random meal at a time.</h3>
-  </header>
+    <h1>Weekly Meal Plan Generator</h1>
+    <p>Would you like some variety in your week?</p>
+    <button id="yesVariety">Yes</button>
+    <button id="noVariety">No</button>
+    
+    <div id="mealPlan" style="display:none;">
+        <h2>Your Meal Plan</h2>
+        <p id="mealOutput"></p>
+        <p>Would you like to see something different?</p>
+        <button id="yesDifferent">Yes</button>
+        <button id="noDifferent">No</button>
+    </div>
+    
+    <script src="mealPlan.js"></script>
 </body>
 </html>
