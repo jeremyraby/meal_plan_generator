@@ -2,6 +2,7 @@
 const breakfasts = [
   { name: "one pan huevos rancheros", link: "https://github.com/jeremyraby/meal_plan_generator/blob/main/huevosRancheros.pdf" },
   { name: "crockpot sausage & cheese casserole", link: "https://github.com/jeremyraby/meal_plan_generator/blob/main/sausageCheeseBreakfastCasserole.pdf" },
+  { name: "Spicy Breakfast Strata", link: "https://github.com/jeremyraby/meal_plan_generator/blob/main/spicyBreakfastStrata.pdf" },
   // Add more breakfasts with corresponding links
 ];
 
@@ -17,6 +18,7 @@ const dinners = [
   { name: "chicken parmesan pasta bake", link: "https://github.com/jeremyraby/meal_plan_generator/blob/main/chickenParmesanPastaBake.pdf" },
   { name: "Sesame Garlic Ramen Stir-Fry", link: "https://github.com/jeremyraby/meal_plan_generator/blob/main/sesameGarlicRamenStirFry.pdf" },
   { name: "Chicken with Creamy Cilantro Lime Sauce", link: "https://github.com/jeremyraby/meal_plan_generator/blob/main/chickenCreamyCilantroLimeSauce.pdf" },
+  { name: "Tex Mex Stuffed Zucchini", link: "https://github.com/jeremyraby/meal_plan_generator/blob/main/texMexStuffedZucchini.pdf" },
   // Add more dinners with corresponding links
 ];
 
