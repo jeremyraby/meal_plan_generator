@@ -16,7 +16,7 @@ const dinners = [
   { name: "chicken with creamy cilantro lime sauce", link: "https://github.com/jeremyraby/meal_plan_generator/blob/main/chickenCreamyCilantroLimeSauce.pdf" },
   { name: "chicken parmesan pasta bake", link: "https://github.com/jeremyraby/meal_plan_generator/blob/main/chickenParmesanPastaBake.pdf" },
   { name: "Sesame Garlic Ramen Stir-Fry", link: "https://github.com/jeremyraby/meal_plan_generator/blob/main/sesameGarlicRamenStirFry.pdf" },
-  { name: "", link: "https://github.com/jeremyraby/meal_plan_generator/blob/main/chickenCreamyCilantroLimeSauce.pdf" },
+  { name: "Chicken with Creamy Cilantro Lime Sauce", link: "https://github.com/jeremyraby/meal_plan_generator/blob/main/chickenCreamyCilantroLimeSauce.pdf" },
   // Add more dinners with corresponding links
 ];
 
