@@ -19,6 +19,9 @@ const dinners = [
   { name: "Sesame Garlic Ramen Stir-Fry", link: "https://github.com/jeremyraby/meal_plan_generator/blob/main/sesameGarlicRamenStirFry.pdf" },
   { name: "Chicken with Creamy Cilantro Lime Sauce", link: "https://github.com/jeremyraby/meal_plan_generator/blob/main/chickenCreamyCilantroLimeSauce.pdf" },
   { name: "Tex Mex Stuffed Zucchini", link: "https://github.com/jeremyraby/meal_plan_generator/blob/main/texMexStuffedZucchini.pdf" },
+  { name: "Pesto Stuffed Shells", link: "https://github.com/jeremyraby/meal_plan_generator/blob/main/Pesto%20Stuffed%20Shells%20Meal%20Prep%20-%20Budge.md" },
+  { name: "Skillet Meatballs with Marina & Broccoli", link: "hhttps://github.com/jeremyraby/meal_plan_generator/blob/main/Sunday%20Meal%20Prep_Skillet%20Meatballs%20and%20Marinara.md" },
+  { name: "Sweet Potato Tacos", link: "https://github.com/jeremyraby/meal_plan_generator/blob/main/Sweet%20Potato%20Taco%20Meal%20Prep%20-%20Budget%20B.md" },
   // Add more dinners with corresponding links
 ];
 
