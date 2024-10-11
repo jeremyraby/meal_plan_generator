@@ -80,3 +80,7 @@ Web app that generates a random weekly meal "plan" in order to both save money a
 - [ ] "baked mac 'n cheese (df2)", 'quick and easy ravioli soup (ww)',
 - [ ] 'easy make at home chinese chicken (ww)', 'southwestern turkey stew (ww)',
 - [ ] 'classic fettuccine alfredo (ww)', 'nerd fitness chicken',
+
+### Snacks
+
+### Veggies
