@@ -3,6 +3,9 @@ const breakfasts = [
   { name: "one pan huevos rancheros", link: "https://github.com/jeremyraby/meal_plan_generator/blob/main/huevosRancheros.pdf" },
   { name: "crockpot sausage & cheese casserole", link: "https://github.com/jeremyraby/meal_plan_generator/blob/main/sausageCheeseBreakfastCasserole.pdf" },
   { name: "Spicy Breakfast Strata", link: "https://github.com/jeremyraby/meal_plan_generator/blob/main/spicyBreakfastStrata.pdf" },
+  { name: "PB & J Cottage Cheese Breakfast Bowl", link: "https://github.com/jeremyraby/meal_plan_generator/blob/main/Peanut%20Butter%20and%20Jelly%20Cottage%20Cheese%20Breakfast%20Bowl%20-%20Budget%20Bytes.pdf" },
+  { name: "Microwave Breakfast Scrambles", link: "https://github.com/jeremyraby/meal_plan_generator/blob/main/Make%20Ahead%20Microwave%20Breakfast%20Scrambles%20-%20Budget%20Bytes.pdf" },
+  { name: "Country Breakfast Bowls", link: "https://github.com/jeremyraby/meal_plan_generator/blob/main/Country%20Breakfast%20Bowls%20-%20Budget%20Bytes.pdf" },
   // Add more breakfasts with corresponding links
 ];
 
@@ -22,6 +25,9 @@ const dinners = [
   { name: "Pesto Stuffed Shells", link: "https://github.com/jeremyraby/meal_plan_generator/blob/main/Pesto%20Stuffed%20Shells%20Meal%20Prep%20-%20Budge.md" },
   { name: "Skillet Meatballs with Marina & Broccoli", link: "hhttps://github.com/jeremyraby/meal_plan_generator/blob/main/Sunday%20Meal%20Prep_Skillet%20Meatballs%20and%20Marinara.md" },
   { name: "Sweet Potato Tacos", link: "https://github.com/jeremyraby/meal_plan_generator/blob/main/Sweet%20Potato%20Taco%20Meal%20Prep%20-%20Budget%20B.md" },
+  { name: "Pizza Roll Ups", link: "https://github.com/jeremyraby/meal_plan_generator/blob/main/The%20Pizza%20Roll%20Up%20Lunch%20Box%20-%20Budget%20Bytes.pdf" },
+  { name: "Sweet Potatoes with Lime Crema", link: "https://github.com/jeremyraby/meal_plan_generator/blob/main/Loaded%20Sweet%20Potatoes%20with%20Lime%20Crema%20-%20Budget%20Bytes.pdf" },
+  { name: "Jerk Chicken with Pineapple Black Bean Salsa", link: "https://github.com/jeremyraby/meal_plan_generator/blob/main/Jerk%20Chicken%20with%20Pineapple%20Black%20Bean%20Salsa%20-%20Budget%20Bytes.pdf" },
   // Add more dinners with corresponding links
 ];
 
