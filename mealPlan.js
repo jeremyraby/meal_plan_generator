@@ -34,7 +34,6 @@ const dinners = [
   { name: "Skillet Chicken Pot Pie", link: "https://github.com/jeremyraby/meal_plan_generator/blob/main/Chicken%20Pot%20Pie%20Skillet%20Recipe%20-%20Dessert%20for%20Two.pdf" },
   { name: "Broccoli Rice Casserole with Chicken", link: "https://github.com/jeremyraby/meal_plan_generator/blob/main/Broccoli%20Rice%20Casserole%20with%20Chicken%20-%20Dessert%20for%20Two.pdf" },
   { name: "Baked Breaded Chicken Strips (Freezer)", link: "https://github.com/jeremyraby/meal_plan_generator/blob/main/Baked%20Breaded%20Chicken%20Strips%20-%20Dessert%20for%20Two.pdf" },
-  { name: "Bacon Wrapped Aspargus", link: "https://github.com/jeremyraby/meal_plan_generator/blob/main/Bacon%20Wrapped%20Asparagus%20-%20Dessert%20for%20Two.pdf" },
   { name: "PB Steak Tacos", link: "https://github.com/jeremyraby/meal_plan_generator/blob/main/Peanut%20Butter%20Steak%20Tacos%20(with%20sriracha!)%20-%20Dessert%20for%20Two.pdf" },
   { name: "Pork Meatballs", link: "https://github.com/jeremyraby/meal_plan_generator/blob/main/Pork%20Meatballs%20-%20Dessert%20for%20Two.pdf" },
   { name: "Skillet Lasagna", link: "https://github.com/jeremyraby/meal_plan_generator/blob/main/Skillet%20Lasagna%20-%20Dessert%20for%20Two.pdf" },
