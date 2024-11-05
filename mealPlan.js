@@ -39,6 +39,7 @@ const dinners = [
   { name: "Skillet Lasagna", link: "https://github.com/jeremyraby/meal_plan_generator/blob/main/Skillet%20Lasagna%20-%20Dessert%20for%20Two.pdf" },
   { name: "Stuffed Bell Peppers", link: "https://github.com/jeremyraby/meal_plan_generator/blob/main/Stuffed%20Peppers%20for%20Two%20-%20Dessert%20for%20Two.pdf" },
   { name: "White Chicken & Green Chile Enchiladas", link: "https://github.com/jeremyraby/meal_plan_generator/blob/main/White%20Chicken%20Enchilada%20Recipe%20-%20Dessert%20for%20Two.pdf" },
+  { name: "Poblano Pepper Soup", link: "https://github.com/jeremyraby/meal_plan_generator/blob/main/poblano_pepper_soup.md" },
   // Add more dinners with corresponding links
 ];
 
