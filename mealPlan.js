@@ -70,6 +70,7 @@ function generateMealPlan(numberOfMeals) {
     if (breakfast1.name === breakfast2.name) breakfast2 = breakfasts[breakfasts.length - 1];
     if (lunch1.name === lunch2.name) lunch2 = lunches[lunches.length - 1];
     if (dinner1.name === dinner2.name) dinner2 = dinners[dinners.length - 1];
+    if (dinner1.name === 'Italian Cream Cheese Chicken & Creamy Chicken Soup') dinner2 = 'Creamy Chicken Soup';
 
     mealOutput = `
       <p>Okay, this week you're gonna have <a href="${breakfast1.link}" target="_blank">${breakfast1.name}</a> for breakfast, 
