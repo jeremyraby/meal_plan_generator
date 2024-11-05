@@ -40,6 +40,7 @@ const dinners = [
   { name: "Stuffed Bell Peppers", link: "https://github.com/jeremyraby/meal_plan_generator/blob/main/Stuffed%20Peppers%20for%20Two%20-%20Dessert%20for%20Two.pdf" },
   { name: "White Chicken & Green Chile Enchiladas", link: "https://github.com/jeremyraby/meal_plan_generator/blob/main/White%20Chicken%20Enchilada%20Recipe%20-%20Dessert%20for%20Two.pdf" },
   { name: "Poblano Pepper Soup", link: "https://github.com/jeremyraby/meal_plan_generator/blob/main/poblano_pepper_soup.md" },
+  { name: "Italian Cream Cheese Chicken & Creamy Chicken Soup", link: "https://github.com/jeremyraby/meal_plan_generator/blob/main/italianCreamCheeseChicken_creamyChickenSoup.pdf" },
   // Add more dinners with corresponding links
 ];
 
