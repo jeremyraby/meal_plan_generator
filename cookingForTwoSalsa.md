@@ -24,7 +24,8 @@ Yield • 2 cups
 First, slightly drain off some of the liquid from the 
 canned tomatoes—just a tablespoon or two. 
 Pour the drained tomatoes into the bowl of a food 
-processor. 
+processor.
+
 Chop the jalapenos, removing the seeds and 
 white veins to reduce the heat level of the salsa. 
 Or leave them whole for an extra-spicy salsa! 
@@ -33,10 +34,12 @@ Peel and roughly chop the onion before adding
 it to the food processor. Add all the remaining 
 ingredients, except the tortilla chips, and pulse 
 until combined. 
+
 Taste the salsa with a tortilla chip to check for 
 saltiness. If it seems to need salt, try adding more 
 lime juice first. Always taste salsa with a chip 
 because the chips usually have quite a bit of salt 
 on them! 
+
 Serve with tortilla chips, or use as a salad dressing 
 for my Taco Salad (page 164). 
